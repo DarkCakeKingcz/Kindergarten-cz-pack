@@ -1,5 +1,6 @@
 # Kindergarten-cz-pack
 Školka s českou fanouškovskou lokalizací
+
 Kindergarten with Czech fan-made localization
 
 (Samozřejmě měj zakoupenou hru prvně)
